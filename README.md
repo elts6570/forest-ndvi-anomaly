@@ -31,8 +31,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 python scripts/run_pipeline.py
+```
 
 ---
 
 ## Acknowledgement
-If you found these demonstrations useful, please consider contacting the author at eleni.tsaprazi@gmail.com (Eleni Tsaprazi) to discuss a way to acknowledge the contribution. Feedback is welcome!# forest-ndvi-anomaly
+
+If you found these demonstrations useful, please consider contacting the author at eleni.tsaprazi@gmail.com (Eleni Tsaprazi) to discuss a way to acknowledge the contribution. Feedback is welcome!
