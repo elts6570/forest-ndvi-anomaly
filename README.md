@@ -19,6 +19,8 @@ The project demonstrates:
   - True-colour Sentinel-2 quicklooks for baseline and target periods.
 - A clean `src/` package layout with a high-level `run_ndvi_anomaly_pipeline` API.
 
+  <img width="2211" height="712" alt="ndvi_mean_and_anomaly" src="https://github.com/user-attachments/assets/dd1b7896-0b7b-44dd-8c29-91a00863e509" />
+
 ---
 
 ## Usage
