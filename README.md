@@ -1,8 +1,6 @@
 # Forest NDVI Anomaly – Sentinel-2 & ESA WorldCover
 
-This repository contains a small but complete Python library, `forest_ndvi`, for
-computing NDVI and NDVI anomalies over forested areas using Sentinel-2 L2A and
-ESA WorldCover data via Microsoft Planetary Computer.
+This repository contains a small Python library, `forest_ndvi`, for computing NDVI and NDVI anomalies over forested areas using Sentinel-2 L2A and ESA WorldCover data via Microsoft Planetary Computer. This sample library replicates the core GIS workflow of retrieving satellite imagery and applying NDVI raster operations, while adding lightweight analytics tailored to forest monitoring.
 
 The project demonstrates:
 
